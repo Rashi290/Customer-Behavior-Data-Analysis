@@ -67,7 +67,7 @@ Summarized insights, recommendations, and business strategy ideas derived from d
 🧠 Skills Demonstrated
 Technical Skills
 
-Python (Pandas, Matplotlib, Seaborn)
+Python (Pandas)
 
 SQL (Joins, CTEs, Window Functions, Aggregations)
 
